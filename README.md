@@ -35,7 +35,7 @@ The data for this project was obtained from Whoop, a wearable device that tracks
 ## Project Structure
 
 The project is structured as follows:
-
+```
 wearable-device-data-analysis/
 │
 ├── data/
@@ -50,7 +50,7 @@ wearable-device-data-analysis/
 │
 ├── README.md
 └── requirements.txt
-
+```
 
 ## Installation
 

@@ -57,7 +57,8 @@ wearable-device-data-analysis/
 To run the analysis, you need to have Python 3.x installed along with the necessary libraries. You can install the required libraries using the following command:
 
 ```sh
-pip install -r requirements.txt ```
+pip install -r requirements.txt
+```
 
 ## Usage
 1. Data Import and Preprocessing:

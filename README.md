@@ -99,7 +99,7 @@ pip install -r requirements.txt
 ## References
 
 Data Source:
-- Personal Whoop Data. Learn more about Whoop at: https://www.whoop.com/us/en/the-data/
+- Whoop Data. Learn more about Whoop at: https://www.whoop.com/us/en/the-data/
 
 Libraries and tools used:
 
